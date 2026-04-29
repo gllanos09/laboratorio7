@@ -1,6 +1,7 @@
 from django.db import models
 
 
+# NUEVO
 class Genre(models.Model):
     name = models.CharField(
         max_length=100,
@@ -20,6 +21,7 @@ class Movie(models.Model):
 
     release_date = models.DateField()
 
+    # CAMBIO
     genres = models.ManyToManyField(
         Genre,
         related_name="movies"

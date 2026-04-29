@@ -1,11 +1,18 @@
-## Laboratorio 7 - Repaso
+### Laboratorio 7 - Repaso
 
-## Gabriel Llanos
+### Gabriel Llanos
 
 ## Creación del app
-
 !['Creación'](./docs/app.png)
 
-## Endpoint - Formato JSON
+## Endpoint - Formato JSON - Movies
+!['Endpoint!'](./docs/movie.png)
 
-!['Endpoint!'](./docs/api.png)
+## Endpoint - Formato JSON - Genres 
+!['Endpoint!'](./docs/genres.png)
+
+## Endpoint - Formato JSON - Relation 
+!['Endpoint!'](./docs/relation.png)
+
+## Endpoint - Formato JSON - Reviews 
+!['Endpoint!'](./docs/reviews.png)
